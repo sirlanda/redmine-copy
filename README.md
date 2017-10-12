@@ -1,2 +1,2 @@
 # redmine-copy
-Dead simple copy of redmine issues between redmine installations
+Dead simple copy of issues between redmine installations
