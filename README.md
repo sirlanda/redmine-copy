@@ -3,7 +3,7 @@ Dead simple copy of issues between redmine installations
 
 ## Preparations
 <code>
-  pip install requests getpass
+  pip install requests
 </code>
 
 ## Usage
