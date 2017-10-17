@@ -1,9 +1,14 @@
 # redmine-copy
 Dead simple copy of issues between redmine installations
 
+## Preparations
+<code>
+  pip install requests getpass
+</code>
+
 ## Usage
-- customize @defaults.py@
-- call @rmcopy.py [issue_nr]@
+- customize _defaults.py_
+- call _rmcopy.py [issue_nr]_
 - returns the link to the issue or reports the error
 
 ## Details
